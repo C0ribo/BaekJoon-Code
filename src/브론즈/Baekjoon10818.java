@@ -20,17 +20,31 @@ public class Baekjoon10818 { // 2562 번 문제와 연계문제
 
         int N = Integer.parseInt(br.readLine());
         int[] arrNum = new int[N];
-        int max = arrNum[0];
-        int min = arrNum[0];
+        st = new StringTokenizer(br.readLine());
+
+        //int max = arrNum[0]; // 최대
+        //int min = arrNum[0]; // 최소
+
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
 
         for(int i = 0; i < N; i++){
-            st = new StringTokenizer(br.readLine());
-            arrNum[i] = Integer.parseInt(st.nextToken());
-
-            for(int j = 0; j < arrNum.length; j++)
+            arrNum[i] = Integer.parseInt(st.nextToken()); // 원하는 만큼 배열입력
         }
 
+        for(int i : arrNum){
+            min = Math.min(min, i);
+            max = Math.max(max, i);
+        }
 
+//        for(int i = 0; i< arrNum.length; i++){
+//            if(arrNum[i] > max){ // 최대
+//                max = arrNum[i];
+//            }
+//            if(arrNum[i] < min){ // 최소
+//                min = arrNum[i];
+//            }
+//        }
         sb.append(min).append(" ").append(max);
         System.out.println(sb);
     }
