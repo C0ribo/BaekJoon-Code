@@ -1,39 +1,19 @@
 
-=
-src/Main.java,9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138
-E
-src/Baekjoon7287.java,9/f/9f320b5636d2326ce60771557379bd42cdbb7f23
-F
-src/Baekjoon10171.java,b/d/bd54f10657189eeaf67b8c7b858c2a0d734e5bc1
-E
-src/Baekjoon9498.java,2/f/2f8e14d5202a1d864f849a627a0e421ea0e06c47
-E
-src/Baekjoon1330.java,f/6/f6367d10488c64a79bf37d64d1338a7085d798c2
-F
-src/Baekjoon14681.java,2/4/24f0601c65219f32940cdedc8daf0c42e42a2a30
-E
-src/오늘날짜.java,b/3/b33f02a5c86d81daf8b57e4f1461eb266debeab0
-E
-src/Baekjoon2753.java,7/3/737bea876bd115417c8bd6aa7ac4f54186dac8ca
-E
-src/Baekjoon2420.java,4/a/4ae8259ef85c4d63ccfbeee8a7522b615bcf953c
-E
-src/Baekjoon2741.java,b/b/bbfc65e649f3baacfc5ee2bb61c804b9eee504bd
-F
-src/Baekjoon10872.java,f/5/f562ad7be33ffe3aca4a720e8df06a975a1a7da3
-H
-src/Baekjoon10950_2.java,4/e/4ef71b1ed3cc01c4b18489838508ef49c672f781
-F
-src/Baekjoon10951.java,1/1/111f73c057b234247e445555f7cdc94de501d894
-F
-src/Baekjoon10871.java,4/b/4bcb153eae19fc1a6a4a569d9f38f61ccd238ee5
-F
-src/Baekjoon10807.java,5/3/53734135b0c76b34c2c710a4d8fa6215e2ba3c76
-E
-src/Baekjoon5597.java,3/5/35c8a2f4c8f5382c18ecec0ae0aed02da92b8161
-E
-src/Baekjoon2738.java,5/7/577b109f92b50a5d7c86ed8ba572f3b52004c034
-E
-src/Baekjoon1008.java,c/4/c4e3165312304da8a1b40e336e186a06679b07a4
-E
-src/Baekjoon2562.java,c/a/ca1fbd7b9ff32139cfa7b4de9589cdc04598e312
+P
+ src/브론즈/Baekjoon10807.java,3/9/3937a68a3d2dd8a027819fb04a03c7ed2e8b245d
+P
+ src/브론즈/Baekjoon10818.java,d/5/d546dd1ee7d78af302d09bacdef92a4f6647f8c0
+O
+src/브론즈/Baekjoon5597.java,d/5/d5200eff514adeed0d8318455908c20af29f01b8
+O
+src/브론즈/Baekjoon2738.java,4/e/4ed175c76fe43bb7fad04cc76e686758224e110c
+P
+ src/브론즈/Baekjoon10871.java,9/9/991ef4ed4d63b2f947f500a6c59dbcedd8d25a70
+O
+src/브론즈/Baekjoon2562.java,7/2/72c40f2a28fdade24e3cfbe5b88bf8008dc7ff74
+O
+src/브론즈/Baekjoon1008.java,8/1/81920a70bd0079f17f30b673194cadfa3090477f
+O
+src/브론즈/Baekjoon2675.java,d/6/d699fd38ec0939b7c4e904ea030a4af85bfddc99
+P
+ src/브론즈/Baekjoon11720.java,4/f/4fb4ee9b63e3db8db15aa6f8946bfac33de81819
