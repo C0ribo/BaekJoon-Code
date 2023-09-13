@@ -17,22 +17,36 @@ public class Baekjoon2738 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); // Bf 선언
-        int N = Integer.parseInt(br.readLine());
-        int M = Integer.parseInt(br.readLine());
-        StringTokenizer st; //= new StringTokenizer(br.readLine(), " ");
         StringBuilder sb = new StringBuilder();
-        //int[] arr1 = new int[N];
-        //int[] arr2 = new int[M];
-        int[][] arr = new int[N][M]; // [행][열]
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
-        for(int i = 0; i <=N; i++){
-            for(int j =0; j<= M; j++){
-                st = new StringTokenizer(br.readLine(), " ");
+        int n = Integer.parseInt(st.nextToken());
+        int m = Integer.parseInt(st.nextToken());
+        int[][] A = new int[n][m];
+        int[][] B = new int[n][m];
+        int sum = 0;
+
+        for(int i = 0; i < n; i++){
+            st = new StringTokenizer(br.readLine());
+            for(int j = 0; j < m; j++){
+                A[i][j] = Integer.parseInt(st.nextToken());
             }
-
-            //int indexA = Integer.parseInt(st.nextToken());
-
         }
+        for(int i = 0; i < n; i++){
+            st = new StringTokenizer(br.readLine());
+            for(int j = 0; j < m; j++){
+                B[i][j] = Integer.parseInt(st.nextToken());
+            }
+        }
+
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                sum = A[i][j] + B[i][j];
+                sb.append(sum).append(" ");
+            }
+            sb.append("\n");
+        }
+        System.out.println(sb);
 
     }
 }
