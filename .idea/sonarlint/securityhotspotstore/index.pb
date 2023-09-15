@@ -41,3 +41,15 @@ O
 src/브론즈/Baekjoon1271.java,0/2/02155679a4b260444a7df6c204a0c11533bda759
 O
 src/브론즈/Baekjoon2754.java,4/7/470905d6a2b09a55933b999b3b688f7c4642e892
+O
+src/브론즈/Baekjoon2480.java,5/0/50454078a255fe61f1c9a0fa50e020bb12837889
+P
+ src/브론즈/Baekjoon25304.java,3/d/3d333b75cdd6fb0151435a959793797f0c8c46a2
+P
+ src/브론즈/Baekjoon10039.java,c/1/c1617c8d476d092814d91f10ea450e513b8ee06b
+O
+src/브론즈/Baekjoon3046.java,0/f/0f7f60ba483191057411f53b26a44c8e98154489
+O
+src/브론즈/Baekjoon5543.java,f/4/f4937bd7c95388951ba500cbe251670579efda75
+P
+ src/브론즈/Baekjoon10808.java,7/5/754adf6ee7841f5e6426390fb06077e40bef1ff7
