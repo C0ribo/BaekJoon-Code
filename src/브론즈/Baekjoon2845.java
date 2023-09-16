@@ -5,29 +5,30 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Baekjoon10797 {
+public class Baekjoon2845 {
     /*
-    * 브론즈 4 - 10797
+    * 첫번쨰 줄 1m^2 에 사람 수 L , 파티 넓이 P
+    * 두번째 줄 다섯 신문에 적힌 인원 (공백)
     *
-    * 날짜 일의 자리를 입력했을 때 차량 5대 중에 그 숫자와 동일한 수가 몇개인지 찾으시오
+    * ( L * P ) - 입력값
     * */
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
         StringTokenizer st = new StringTokenizer(br.readLine());
 
-        int day = Integer.parseInt(st.nextToken());
-        int cnt = 0;
+        int l = Integer.parseInt(st.nextToken());
+        int p = Integer.parseInt(st.nextToken());
+
+        int people = l * p;
+        int result = 0;
 
         st = new StringTokenizer(br.readLine());
         for(int i = 0; i<5; i++){
-            int carNum = Integer.parseInt(st.nextToken());
-            if(day == carNum){
-                cnt++;
-            }
+            int news = Integer.parseInt(st.nextToken());
+            result  = news - people;
+            sb.append(result).append(" ");
         }
-        sb.append(cnt);
         System.out.println(sb);
     }
 }
-
