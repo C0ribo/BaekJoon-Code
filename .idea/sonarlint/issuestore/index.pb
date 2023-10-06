@@ -103,3 +103,5 @@ F
 src/StringCutting.java,8/a/8a65c945030487dd05c4db6de153ee92168a9215
 O
 src/브론즈/Baekjoon2577.java,b/d/bdbb9ac6d3ac5c4e69e15c45a2b4573e5f5a0536
+O
+src/브론즈/Baekjoon8958.java,2/b/2bbfa0148aefbe53430b83b2ea124833248677af
