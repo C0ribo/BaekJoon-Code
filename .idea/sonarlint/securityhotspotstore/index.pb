@@ -107,3 +107,5 @@ O
 src/브론즈/Baekjoon8958.java,2/b/2bbfa0148aefbe53430b83b2ea124833248677af
 O
 src/브론즈/Baekjoon1152.java,1/b/1b9cd621c156fa862affca58393db47444d50485
+Q
+!src/브론즈/Baekjoon2675_2.java,a/a/aa6d261cc1e6a817a6c1fab38fe1d4159c01ae31
