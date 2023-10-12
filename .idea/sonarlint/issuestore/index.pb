@@ -109,3 +109,7 @@ O
 src/브론즈/Baekjoon1152.java,1/b/1b9cd621c156fa862affca58393db47444d50485
 Q
 !src/브론즈/Baekjoon2675_2.java,a/a/aa6d261cc1e6a817a6c1fab38fe1d4159c01ae31
+O
+src/브론즈/Baekjoon2908.java,7/c/7c8b3cd8e08be293075d4948dd99dc7e481ca9ce
+Q
+!src/브론즈/Baekjoon2908_2.java,3/2/322a7cefecf034cf7f6e4fc661ba8f1c28326198
